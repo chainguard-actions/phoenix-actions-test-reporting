@@ -4,8 +4,13 @@
   "version": "v14",
   "commit_sha": "324c51f0cea38b773386b2e7623fda46e826c895",
   "url": "https://github.com/phoenix-actions/test-reporting",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
   "test_agent_version": "2",
-  "harden_agent_version": "2"
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/phoenix-actions/test-reporting/v14/sha256-316b1a45eb4a3e7882ec3fc1c94f5767b5403fd8b38a852f4ca331213c7ce06b.tar.gz",
+    "sha256": "316b1a45eb4a3e7882ec3fc1c94f5767b5403fd8b38a852f4ca331213c7ce06b",
+    "size_bytes": 589324
+  }
 }
